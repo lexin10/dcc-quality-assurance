@@ -14,10 +14,10 @@ Acceptance DCCs issuance
 
 ### Recovery
 
-![REC_01](REC_01.png)
+![REC_01](REC_01.PNG)
 
 ### Laboratory Test
 
 DCC is for rapid test:
 
-![TEST_01](TEST_01.png)
+![TEST_01](TEST_01.PNG)
