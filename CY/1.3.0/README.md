@@ -2,20 +2,22 @@
 
 * **JSON schema version**: 1.3.0
 
-Used for productive DCCs issuance
-* From: 7.07.2021
+Acceptance DCCs issuance
+* From: 17.01.2022
 * Until:
 
 ## Test files
 
 ### Vaccination
 
-![VAC](VAC.png)
-
-### Test
-
-![TEST](TEST.png)
+![VAC_01](VAC_01.png)
 
 ### Recovery
 
-![REC](REC.png)
+![REC_01](REC_01.png)
+
+### Laboratory Test
+
+DCC is for rapid test:
+
+![TEST_01](TEST_01.png)
